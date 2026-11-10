@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "today": { "date": "2026-11-09", "number": "24" },
-  "yesterday": { "date": "2026-11-08", "number": "74" },
+  "today": { "date": "2026-11-10", "number": "160" },
+  "yesterday": { "date": "2026-11-09", "number": "24" },
   "currentMonth": {
     "month": "2026-11",
     "results": [
-      { "date": "2026-11-09", "number": "24" },
-      { "date": "2026-11-08", "number": "74" }
+      { "date": "2026-11-10", "number": "160" },
+      { "date": "2026-11-09", "number": "24" }
     ]
   },
   "archiveRevisions": {
