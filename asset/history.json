@@ -1,7 +1,7 @@
 {
   "version":1,"dataset":"sample","results":
 [
- {"date":"2026-11-25","number":15},
+ {"date":"2026-11-26","number":80},{"date":"2026-11-25","number":15},
  {"date":"2026-11-24","number":44},
  {"date":"2026-11-23","number":59},
  {"date":"2026-11-22","number":67},
